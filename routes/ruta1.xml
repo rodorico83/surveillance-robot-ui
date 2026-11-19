@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<route name="ruta1">
+    <move checkPoint="0" direction="FORWARD_MOVE" time="46"/>
+    <move checkPoint="0" direction="BACKWARD_MOVE" time="46"/>
+    <move checkPoint="0" direction="FORWARD_MOVE" time="44"/>
+</route>
